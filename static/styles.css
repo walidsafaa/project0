@@ -1,0 +1,85 @@
+.top-text {
+    display: inline-block;
+    width: 33%;
+    font-size: 13px;
+    font-weight: 700;
+    color: #777;
+    padding-left: 190px;
+    vertical-align: middle;
+
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.HoCfzc {
+    float: left;
+    display: inline-block;
+    min-width: 167px;
+    min-height: 41px;
+    vertical-align: middle;
+    width: 50%;
+}
+
+.s {
+    width: 100%;
+    clear: both;
+}
+
+.tt {
+    display: inline-block;
+    min-width: 167px;
+    width: 16%;
+    color: #222;
+    font-size: 13px;
+    line-height: 16px;
+    vertical-align: middle;
+
+
+}
+
+.text {
+    min-height: 41px;
+    text-align: center;
+}
+
+.jfk-textinput {
+    display: inline-block;
+    min-width: 167px;
+    vertical-align: middle;
+    width: 50%;
+
+    padding-right: 16px;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    height: 25px;
+    padding: 1px 8px;
+
+
+}
+
+.instructions {
+    margin: 10px;
+    color: #666;
+    font-size: 11px;
+    white-space: pre;
+}
+
+.todo {
+    color: #666;
+    font-family: monospace;
+    font-size: 11px;
+}
+
+.last {
+    display: inline-block;
+    width: 32%;
+    min-width: 160px;
+    margin: 0 0 0px 1%;
+    color: #555;
+    font-size: 11px;
+    vertical-align: middle;
+}
